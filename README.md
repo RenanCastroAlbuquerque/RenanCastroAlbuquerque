@@ -20,7 +20,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor e construir uma carreira 
 
 ## Atualmente estudando
 
-*Ciências da Computação 
+* Ciências da Computação 
 * Java
 * Programação Orientada a Objetos (POO)
 * Algoritmos e Lógica de Programação
