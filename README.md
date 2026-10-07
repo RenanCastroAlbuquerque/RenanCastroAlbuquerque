@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brasil-1f3a5f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
 <img src="https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-2ea44f?style=for-the-badge" alt="Aberto a estágio" />
 
+<br/><br/>
+
+<a href="#-sobre-mim">🇧🇷 Português</a> &nbsp;•&nbsp; <a href="#-english">🇺🇸 English</a>
+
 </div>
 
 ## 👋 Sobre mim
@@ -90,18 +94,32 @@ Plataforma da minha equipe para o GoodWe Challenge 2026: conecta motoristas, com
 - **Alura** — Spring Boot 3: desenvolva uma API Rest em Java
 - **Alura** — trilha Praticando Java (orientação a objetos, coleções e streams, Strings e Regex, data e hora)
 
-<details>
-<summary>🇺🇸 <b>English version</b></summary>
+---
 
-<br/>
+## 🇺🇸 English
 
-I'm a **Computer Science student at FIAP** (São Paulo, Brazil), graduating in December 2029, focused on **back-end development with Java and Python**.
+### 👋 About me
 
-- 🤖 I built the **AI assistant for AXIS**, an electric vehicle charging platform my team created for the GoodWe Challenge 2026. It's a LangGraph agent with a FastAPI API, running in production.
-- ☕ I'm learning **Spring Boot** on my own and built a REST API with JPA, Flyway and Bean Validation.
-- 🎯 Looking for my **first internship in software development**.
+I'm a **Computer Science student at FIAP** (São Paulo, Brazil), graduating in December 2029, and I hold a technical high school diploma in IT. My focus is **back-end development with Java and Python**, and I like to learn by building things that actually work.
 
-</details>
+- 🤖 I built the **AI assistant for AXIS**, an electric vehicle charging platform created by my team for the GoodWe Challenge 2026 (FIAP). It is running in production.
+- ☕ I study **Spring Boot** on my own and have already built a REST API with JPA, Flyway and Bean Validation.
+- 🎯 I'm looking for my **first internship in software development**.
+- 🌎 Advanced English.
+
+### 🚀 Featured projects
+
+- **[AXIS Chatbot](https://github.com/RenanCastroAlbuquerque/Chat-Bot-Challenge-GoodWe)**: the AXIS virtual assistant, in production. A LangGraph agent with Gemini that queries the chargers in real time from the database, with conversation memory, guardrails and a FastAPI API.
+- **[GoodWe Charge Assistant](https://github.com/RenanCastroAlbuquerque/Agent_GoodWe)**: a conversational agent built from scratch with LangGraph. It runs on two LLM providers (Groq and Gemini), with memory and safety tests and a report comparing the models.
+- **[VollMed API](https://github.com/RenanCastroAlbuquerque/Crud_Voll_Med_API)**: a REST API for managing doctors and patients. Paginated listing, soft delete, DTOs with Records, Bean Validation and Flyway migrations.
+- **[AXIS](https://github.com/RenanCastroAlbuquerque/Axis-Challenge-G4)**: my team's platform for the GoodWe Challenge 2026, connecting drivers, merchants and EV charging stations. The project advanced to the second phase of the challenge.
+
+### 🎓 Education and courses
+
+- **B.Sc. in Computer Science**, FIAP (2026 – 2029)
+- **Technical high school diploma in IT**, Colégio Filomena de Marco
+- **Alura**: Spring Boot 3, building a REST API in Java
+- **Alura**: Praticando Java track (object-oriented programming, collections and streams, Strings and Regex, date and time)
 
 <div align="center">
 
