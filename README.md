@@ -1,93 +1,110 @@
-## Hi there 👋
+<div align="center">
 
-# Renan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f3a5f,100:2f81f7&height=190&section=header&text=Renan%20de%20Castro%20Albuquerque&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Back-end%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20Generativa&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Renan de Castro Albuquerque" />
 
-Estudante de Ciência da Computação pela FIAP, focado em desenvolver uma base sólida em programação e desenvolvimento de software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FIAP;Back-end+com+Java+e+Spring+Boot;Agentes+de+IA+com+Python+e+LangGraph;Em+busca+do+primeiro+est%C3%A1gio+em+desenvolvimento" alt="Estudante de Ciência da Computação na FIAP" />
 
----
+<br/>
 
-## Sobre mim
+<a href="https://www.linkedin.com/in/renan-castro-albuquerque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brasil-1f3a5f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
+<img src="https://img.shields.io/badge/Aberto%20a%20est%C3%A1gio-2ea44f?style=for-the-badge" alt="Aberto a estágio" />
 
-Desde criança, quando me perguntavam o que eu queria ser no futuro, eu já tinha uma resposta em mente: trabalhar com tecnologia.
+</div>
 
-Com o tempo, esse interesse se transformou em um objetivo claro, o de seguir carreira na área de computação. Foi então que decidi estudar Ciência da Computação e começar a desenvolver minhas habilidades em programação e desenvolvimento de software.
+## 👋 Sobre mim
 
-Atualmente, estou focado em aprender Java, Programação Orientada a Objetos e os fundamentos da computação, enquanto construo projetos que me ajudam a evoluir tecnicamente e ganhar experiência prática.
+Sou estudante de **Ciência da Computação na FIAP** (conclusão em dez/2029) e técnico em Informática. Meu foco é **desenvolvimento back-end em Java e Python**, e gosto de aprender construindo coisas que funcionam de verdade.
 
-Meu objetivo é continuar evoluindo como desenvolvedor e construir uma carreira sólida na área de tecnologia, com foco em oportunidades internacionais.
+- 🤖 Construí o **assistente de IA do AXIS**, plataforma de recarga de veículos elétricos criada pela minha equipe no GoodWe Challenge 2026 (FIAP). Ele está em produção.
+- ☕ Estudo **Spring Boot** por conta própria e já tenho uma API REST completa com JPA, Flyway e Bean Validation.
+- 🎯 Busco meu **primeiro estágio em desenvolvimento de software**.
+- 🌎 Inglês avançado.
 
----
+## 🛠️ Tecnologias
 
-## Atualmente estudando
+<div align="center">
 
-* Ciências da Computação 
-* Java
-* Programação Orientada a Objetos (POO)
-* Algoritmos e Lógica de Programação
-* Git e GitHub
-* Fundamentos de Desenvolvimento de Software
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,git,github,idea,vscode,html,css&perline=11" alt="Java, Spring, Python, FastAPI, MySQL, Git, GitHub, IntelliJ IDEA, VS Code, HTML, CSS" />
 
----
+<br/><br/>
 
-## Ferramentas e Tecnologias
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
 
-* Java
-* Git
-* GitHub
-* IntelliJ IDEA / VS Code
-* HTML e CSS básicos
+</div>
 
----
+## 🚀 Projetos em destaque
 
-## Objetivos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Construir projetos reais e um portfólio sólido
-* Conquistar meu primeiro estágio na área de tecnologia
-* Construir uma carreira internacional em desenvolvimento de software
+### 🤖 [AXIS Chatbot](https://github.com/RenanCastroAlbuquerque/Chat-Bot-Challenge-GoodWe)
 
----
+Assistente virtual do AXIS, em produção. Agente em LangGraph com o Gemini que consulta os carregadores em tempo real no banco, com memória de conversa, guardrails e API em FastAPI.
 
-## About Me
+`Python` `LangGraph` `Gemini` `FastAPI` `Supabase` `Render`
 
-Since I was a child, when people asked what I wanted to be in the future, I already had an answer in mind: I wanted to work with technology.
+</td>
+<td width="50%" valign="top">
 
-Over time, this interest turned into a clear goal — pursuing a career in computer science. That is why I decided to study Computer Science and start developing my skills in programming and software development.
+### 🧪 [GoodWe Charge Assistant](https://github.com/RenanCastroAlbuquerque/Agent_GoodWe)
 
-Currently, I am focused on learning Java, Object-Oriented Programming, and the fundamentals of computing while building projects that help me improve my technical skills and gain practical experience.
+Agente conversacional construído do zero em LangGraph. Roda com dois provedores de LLM (Groq e Gemini), com testes de memória e de segurança e relatório comparando os modelos.
 
-My goal is to keep evolving as a developer and build a strong career in the technology industry, with a focus on international opportunities.
+`Python` `LangGraph` `LangChain` `Groq` `Gemini`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Currently Learning
+### 🏥 [VollMed API](https://github.com/RenanCastroAlbuquerque/Crud_Voll_Med_API)
 
-* Computer Science
-* Java
-* Object-Oriented Programming (OOP)
-* Algorithms and Programming Logic
-* Git and GitHub
-* Software Development Fundamentals
+API REST para gestão de médicos e pacientes. Listagem paginada, exclusão lógica, DTOs com Records, validação com Bean Validation e migrations com Flyway.
 
----
+`Java 17` `Spring Boot` `Spring Data JPA` `Flyway` `MySQL`
 
-## Tools and Technologies
+</td>
+<td width="50%" valign="top">
 
-* Java
-* Git
-* GitHub
-* IntelliJ IDEA / VS Code
-* Basic HTML and CSS
+### ⚡ [AXIS](https://github.com/RenanCastroAlbuquerque/Axis-Challenge-G4)
 
----
+Plataforma da minha equipe para o GoodWe Challenge 2026: conecta motoristas, comerciantes e estações de recarga de veículos elétricos. Projeto classificado para a 2ª fase do desafio.
 
-## Goals
+`TypeScript` `Trabalho em equipe`
 
-* Develop real projects and a solid portfolio
-* Get my first internship in technology
-* Build an international career in software development
+</td>
+</tr>
+</table>
 
----
+## 🎓 Formação e cursos
 
-## Connect with me
+- **Bacharelado em Ciência da Computação** — FIAP (2026 – 2029)
+- **Ensino Médio com Técnico em Informática** — Colégio Filomena de Marco
+- **Alura** — Spring Boot 3: desenvolva uma API Rest em Java
+- **Alura** — trilha Praticando Java (orientação a objetos, coleções e streams, Strings e Regex, data e hora)
 
-LinkedIn: https://www.linkedin.com/in/renan-castro-albuquerque/
+<details>
+<summary>🇺🇸 <b>English version</b></summary>
+
+<br/>
+
+I'm a **Computer Science student at FIAP** (São Paulo, Brazil), graduating in December 2029, focused on **back-end development with Java and Python**.
+
+- 🤖 I built the **AI assistant for AXIS**, an electric vehicle charging platform my team created for the GoodWe Challenge 2026. It's a LangGraph agent with a FastAPI API, running in production.
+- ☕ I'm learning **Spring Boot** on my own and built a REST API with JPA, Flyway and Bean Validation.
+- 🎯 Looking for my **first internship in software development**.
+
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,45:1f3a5f,100:0d1117&height=110&section=footer" width="100%" alt="" />
+
+</div>
